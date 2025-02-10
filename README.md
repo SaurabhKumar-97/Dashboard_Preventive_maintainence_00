@@ -53,3 +53,8 @@ Cost Savings: Realized substantial cost savings by reducing breakdown costs and 
 Enhanced Data Quality: Ensured high data quality, providing reliable insights for informed decision-making.
 
 Conclusion: This project at Sandhar Technologies Ltd successfully demonstrated the power of integrating Power BI with SQL to enhance machine efficiency, streamline maintenance processes, and ensure data quality. The interactive dashboards and real-time insights enabled data-driven decision-making, contributing to overall operational excellence and cost efficiency.
+
+
+Please find project dashboard_01: 
+Please find project dashboard_02:
+Please find project dataset: 
