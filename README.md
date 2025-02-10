@@ -55,6 +55,6 @@ Enhanced Data Quality: Ensured high data quality, providing reliable insights fo
 Conclusion: This project at Sandhar Technologies Ltd successfully demonstrated the power of integrating Power BI with SQL to enhance machine efficiency, streamline maintenance processes, and ensure data quality. The interactive dashboards and real-time insights enabled data-driven decision-making, contributing to overall operational excellence and cost efficiency.
 
 
-Please find project dashboard_01: 
+Please find project dashboard_01: https://github.com/SaurabhKumar-97/Dashboard_Preventive_maintainence_00/blob/4f6f9525ce5a0c9ef35ee1d56d5613213e637d1a/Dashboard_png_01.PNG
 Please find project dashboard_02:
 Please find project dataset: 
