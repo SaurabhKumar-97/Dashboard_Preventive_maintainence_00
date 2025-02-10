@@ -56,5 +56,6 @@ Conclusion: This project at Sandhar Technologies Ltd successfully demonstrated t
 
 
 Please find project dashboard_01: https://github.com/SaurabhKumar-97/Dashboard_Preventive_maintainence_00/blob/4f6f9525ce5a0c9ef35ee1d56d5613213e637d1a/Dashboard_png_01.PNG
-Please find project dashboard_02:
+
+Please find project dashboard_02:https://github.com/SaurabhKumar-97/Dashboard_Preventive_maintainence_00/blob/80202b4c95fe6fcbf552e3eebaba3cf3bcfb38b5/Dashboard_png_02.PNG
 Please find project dataset: 
