@@ -1,6 +1,6 @@
-Project Introduction: Improving Machine Efficiency and Maintenance at Sandhar Technologies Ltd
+Project Introduction: Efficient use of Machine and optimize Maintenance at XXX company..
 
-Project Overview: At Sandhar Technologies Ltd, a leading manufacturing company, we embarked on a 
+Project Overview: At xxx company, a leading manufacturing company, we embarked on a 
 comprehensive project to enhance the efficiency and reliability of our 17 different machines. 
 This project aimed to improve Overall Equipment Effectiveness (OEE), streamline preventive maintenance processes,
 and minimize downtime and breakdown costs, all while ensuring data quality. The entire project was executed using 
